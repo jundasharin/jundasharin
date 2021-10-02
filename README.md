@@ -1,4 +1,5 @@
-# **Hey, I’m Jund**
+# **_Hey, I’m Jund!_ 👋**
+
 - 👀 I’m interested in Back-End Developer
 - 🌱 I’m currently learning Node-js and Phyton
 - 💞️ I’m looking to collaborate on GOJEK
