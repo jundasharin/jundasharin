@@ -1,4 +1,4 @@
-# **_Hey, I’m Jund!_ 👋**
+# **_Hey, I’m Jund!_** 👋
 
 - 👀 I’m interested in Back-End Developer
 - 🌱 I’m currently learning Node-js and Phyton
