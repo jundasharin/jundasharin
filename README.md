@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in Back-End Developer
 - 🌱 I’m currently learning Node-js and Phyton
-- 💞️ I’m looking to collaborate on GOJEK
+- 💞️ I’m looking to collaborate on AWS
 - 📫 How to reach me at my email harisjundan@gmail.com
 
 <!---
